@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	API do intermacji o platformie systemu operacyjnego
 Name:		python-%{module}
 # keep 1.6.x here for python2 support
 Version:	1.6.0
-Release:	3
+Release:	4
 License:	Apache v2.0
 Group:		Libraries/Python
 Source0:	https://github.com/nir0s/distro/archive/v%{version}/%{module}-%{version}.tar.gz
